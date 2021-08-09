@@ -160,7 +160,7 @@ body {
 @media screen and (min-width:975px) {
     
     .wave-top {
-        background-image: url("images/pattern-background-desktop.svg");
+        background-image: url("../images/pattern-background-desktop.svg");
         height: 400px;
     }
     
