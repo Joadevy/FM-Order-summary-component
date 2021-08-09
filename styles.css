@@ -29,7 +29,7 @@ body {
     height: 35vh;
     width: 100%;
     position: absolute;
-    background-image: url(images/pattern-background-mobile.svg);
+    background-image: url('images/pattern-background-mobile.svg');
     top: 0;
 }
 
@@ -160,7 +160,7 @@ body {
 @media screen and (min-width:975px) {
     
     .wave-top {
-        background-image: url(images/pattern-background-desktop.svg);
+        background-image: url('images/pattern-background-desktop.svg');
         height: 400px;
     }
     
